@@ -1,0 +1,6 @@
+[submodule "MapleMini"]
+	path = MapleMini
+	url = https://github.com/fareadh/sbm2k19-sub2-genap
+[submodule "AutomatedTrashBin"]
+	path = AutomatedTrashBin
+	url = https://github.com/reshalfahsi/automated-trash-bin
